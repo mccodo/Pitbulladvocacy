@@ -1,0 +1,13 @@
+.jumbotron
+{
+background-color:aliceblue;
+font-size: 18px;
+font-family: arial;
+<img src="Images/boots.jpg" style="width:304px;height:228px;">
+}    
+
+
+.row
+{
+background: url('../Images/background2.jpg');
+}

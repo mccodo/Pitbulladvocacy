@@ -1,0 +1,9 @@
+body 
+{
+background: url('../Images/dogbackground.jpg');
+background-attachment:fixed;
+background-size:cover;
+font-family:arial;
+font-size:20px;
+font-color:"grey";
+}
